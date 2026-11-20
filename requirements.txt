@@ -1,0 +1,7 @@
+requests
+ipykernel
+python-dotenv
+pandas
+langchain-gigachat
+langchain-core
+pydantic
